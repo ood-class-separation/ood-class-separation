@@ -169,8 +169,8 @@ class="math inline"><em>R</em><sup>2</sup></span></td>
 <td style="text-align: center;">0.362</td>
 </tr>
 <tr class="even">
-<td rowspan="3" style="text-align: center;">HM</td>
-<td style="text-align: center;">m=1</td>
+<td rowspan="3" style="text-align: center;">H</td>
+<td style="text-align: center;">&delta;=1</td>
 <td style="text-align: center;">0.620</td>
 <td style="text-align: center;">0.924</td>
 <td style="text-align: center;">0.702</td>
@@ -184,7 +184,7 @@ class="math inline"><em>R</em><sup>2</sup></span></td>
 <td style="text-align: center;">0.487</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">m=0.1</td>
+<td style="text-align: center;">&delta;=0.1</td>
 <td style="text-align: center;">0.659</td>
 <td style="text-align: center;">0.911</td>
 <td style="text-align: center;">0.784</td>
@@ -198,7 +198,7 @@ class="math inline"><em>R</em><sup>2</sup></span></td>
 <td style="text-align: center;">0.251</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">m=0.01</td>
+<td style="text-align: center;">&delta;=0.01</td>
 <td style="text-align: center;"><strong>0.688</strong></td>
 <td style="text-align: center;">0.885</td>
 <td style="text-align: center;"><strong>0.798</strong></td>
@@ -402,8 +402,8 @@ class="math inline"><em>R</em><sup>2</sup></span></td>
 <td style="text-align: center;">0.362</td>
 </tr>
 <tr class="even">
-<td rowspan="3" style="text-align: center;">HM</td>
-<td style="text-align: center;">m=1</td>
+<td rowspan="3" style="text-align: center;">H</td>
+<td style="text-align: center;">&delta;=1</td>
 <td style="text-align: center;">0.587</td>
 <td style="text-align: center;">0.922</td>
 <td style="text-align: center;">0.552</td>
@@ -421,7 +421,7 @@ class="math inline"><em>R</em><sup>2</sup></span></td>
 <td style="text-align: center;">0.487</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">m=0.1</td>
+<td style="text-align: center;">&delta;=0.1</td>
 <td style="text-align: center;">0.633</td>
 <td style="text-align: center;">0.939</td>
 <td style="text-align: center;">0.554</td>
@@ -439,7 +439,7 @@ class="math inline"><em>R</em><sup>2</sup></span></td>
 <td style="text-align: center;">0.251</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">m=0.01</td>
+<td style="text-align: center;">&delta;=0.01</td>
 <td style="text-align: center;">0.639</td>
 <td style="text-align: center;">0.938</td>
 <td style="text-align: center;"><strong>0.583</strong></td>
